@@ -6,3 +6,5 @@ def Hello_evening():
     print("Добрый вечер")
 Hello_evening()
 
+влад
+
