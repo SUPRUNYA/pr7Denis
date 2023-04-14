@@ -6,4 +6,10 @@ def Hello_evening():
     print("Добрый вечер")
 Hello_evening()
 
-priner
+prinerdsadasdasdasasddasdas
+sadasdasdasdasd
+das
+d
+asdas
+das
+da
